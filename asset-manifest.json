@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/aport/static/css/main.70264c7e.chunk.css",
+    "main.js": "/aport/static/js/main.b08cba9f.chunk.js",
+    "main.js.map": "/aport/static/js/main.b08cba9f.chunk.js.map",
+    "runtime-main.js": "/aport/static/js/runtime-main.6c3461bc.js",
+    "runtime-main.js.map": "/aport/static/js/runtime-main.6c3461bc.js.map",
+    "static/js/2.ab6286f5.chunk.js": "/aport/static/js/2.ab6286f5.chunk.js",
+    "static/js/2.ab6286f5.chunk.js.map": "/aport/static/js/2.ab6286f5.chunk.js.map",
+    "static/js/3.064fa0ac.chunk.js": "/aport/static/js/3.064fa0ac.chunk.js",
+    "static/js/3.064fa0ac.chunk.js.map": "/aport/static/js/3.064fa0ac.chunk.js.map",
+    "index.html": "/aport/index.html",
+    "static/css/main.70264c7e.chunk.css.map": "/aport/static/css/main.70264c7e.chunk.css.map",
+    "static/js/2.ab6286f5.chunk.js.LICENSE.txt": "/aport/static/js/2.ab6286f5.chunk.js.LICENSE.txt",
+    "static/media/100x100React3.png": "/aport/static/media/100x100React3.c1f95732.png",
+    "static/media/400x500BS.png": "/aport/static/media/400x500BS.27146b5f.png",
+    "static/media/400x500CSS.png": "/aport/static/media/400x500CSS.93a2cd46.png",
+    "static/media/400x500HTML.png": "/aport/static/media/400x500HTML.a0f57812.png",
+    "static/media/400x500JS.png": "/aport/static/media/400x500JS.111b995b.png",
+    "static/media/400x500MongoDB.png": "/aport/static/media/400x500MongoDB.688b6b9c.png",
+    "static/media/400x500Node.png": "/aport/static/media/400x500Node.d65524f8.png",
+    "static/media/400x500React.png": "/aport/static/media/400x500React.3be03d55.png",
+    "static/media/400x500Skill.png": "/aport/static/media/400x500Skill.01c1f0ec.png",
+    "static/media/400x500WebGL.png": "/aport/static/media/400x500WebGL.692f3b31.png",
+    "static/media/ikea.png": "/aport/static/media/ikea.bae7319d.png",
+    "static/media/jum.png": "/aport/static/media/jum.9b00980c.png",
+    "static/media/logo.svg": "/aport/static/media/logo.6ce24c58.svg",
+    "static/media/pbg.jpeg": "/aport/static/media/pbg.ef094e47.jpeg",
+    "static/media/por.png": "/aport/static/media/por.ed8d2249.png",
+    "static/media/yt1s.com - Retrowave animation_1080p.mp4": "/aport/static/media/yt1s.com - Retrowave animation_1080p.567abd8f.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c3461bc.js",
+    "static/js/2.ab6286f5.chunk.js",
+    "static/css/main.70264c7e.chunk.css",
+    "static/js/main.b08cba9f.chunk.js"
+  ]
+}
